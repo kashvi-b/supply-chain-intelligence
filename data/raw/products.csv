@@ -1,0 +1,76 @@
+product_id,product_name,category,unit_cost_usd,unit_weight_kg,primary_supplier_id,reorder_point,optimal_stock_level,lead_time_days,is_critical
+PRD-0001,Laptop v1,Electronics,1127.12,13.21,SUP-012,94,319,25,False
+PRD-0002,Laptop v2,Electronics,1994.68,7.0,SUP-004,83,146,8,False
+PRD-0003,Laptop v3,Electronics,1258.62,39.62,SUP-003,74,405,9,False
+PRD-0004,Monitor v1,Electronics,1992.28,26.5,SUP-010,90,105,28,False
+PRD-0005,Monitor v2,Electronics,1770.73,37.57,SUP-011,63,157,16,False
+PRD-0006,Monitor v3,Electronics,16.46,36.13,SUP-008,53,356,12,False
+PRD-0007,Keyboard v1,Electronics,1742.33,14.99,SUP-002,84,411,13,True
+PRD-0008,Keyboard v2,Electronics,331.48,47.68,SUP-013,87,100,26,False
+PRD-0009,Keyboard v3,Electronics,232.62,18.21,SUP-001,59,222,8,True
+PRD-0010,Webcam v1,Electronics,1894.43,4.37,SUP-010,82,135,24,False
+PRD-0011,Webcam v2,Electronics,1322.9,47.35,SUP-003,41,235,23,False
+PRD-0012,Webcam v3,Electronics,1929.08,46.45,SUP-007,45,465,16,False
+PRD-0013,Headset v1,Electronics,1303.26,21.96,SUP-011,86,331,10,True
+PRD-0014,Headset v2,Electronics,682.79,29.46,SUP-002,49,401,14,True
+PRD-0015,Headset v3,Electronics,1265.89,11.52,SUP-012,24,269,9,False
+PRD-0016,Motor v1,Industrial,1341.27,10.79,SUP-005,36,470,25,False
+PRD-0017,Motor v2,Industrial,1571.39,40.39,SUP-004,44,148,10,False
+PRD-0018,Motor v3,Industrial,852.92,23.4,SUP-006,26,444,27,False
+PRD-0019,Valve v1,Industrial,130.62,36.44,SUP-002,33,227,13,True
+PRD-0020,Valve v2,Industrial,288.96,9.26,SUP-008,79,227,9,False
+PRD-0021,Valve v3,Industrial,1713.37,4.99,SUP-014,89,107,9,False
+PRD-0022,Pump v1,Industrial,480.4,20.38,SUP-014,81,209,19,False
+PRD-0023,Pump v2,Industrial,764.16,49.27,SUP-003,53,332,16,False
+PRD-0024,Pump v3,Industrial,1990.89,27.83,SUP-012,82,179,13,False
+PRD-0025,Sensor v1,Industrial,1162.57,27.16,SUP-001,60,129,8,False
+PRD-0026,Sensor v2,Industrial,1839.58,26.6,SUP-009,27,360,9,False
+PRD-0027,Sensor v3,Industrial,1194.12,33.79,SUP-002,50,306,10,False
+PRD-0028,Controller v1,Industrial,499.97,29.77,SUP-010,99,141,20,False
+PRD-0029,Controller v2,Industrial,1050.34,46.74,SUP-010,46,442,29,False
+PRD-0030,Controller v3,Industrial,797.61,33.62,SUP-005,58,334,17,False
+PRD-0031,Chair v1,Consumer Goods,154.36,22.97,SUP-015,92,151,9,False
+PRD-0032,Chair v2,Consumer Goods,537.75,46.67,SUP-009,28,225,18,False
+PRD-0033,Chair v3,Consumer Goods,1669.15,35.21,SUP-008,98,434,23,True
+PRD-0034,Desk v1,Consumer Goods,1113.66,46.59,SUP-014,33,168,15,True
+PRD-0035,Desk v2,Consumer Goods,1487.41,7.86,SUP-002,56,409,13,False
+PRD-0036,Desk v3,Consumer Goods,1378.12,42.66,SUP-004,84,350,15,False
+PRD-0037,Shelf v1,Consumer Goods,111.09,31.75,SUP-014,55,122,7,False
+PRD-0038,Shelf v2,Consumer Goods,1277.86,13.17,SUP-003,76,382,29,False
+PRD-0039,Shelf v3,Consumer Goods,232.63,47.26,SUP-001,39,379,8,False
+PRD-0040,Cabinet v1,Consumer Goods,1109.52,21.55,SUP-010,25,257,18,False
+PRD-0041,Cabinet v2,Consumer Goods,1944.67,2.09,SUP-013,65,207,28,True
+PRD-0042,Cabinet v3,Consumer Goods,713.82,28.04,SUP-002,72,417,30,True
+PRD-0043,Lamp v1,Consumer Goods,481.11,8.21,SUP-015,42,311,7,True
+PRD-0044,Lamp v2,Consumer Goods,671.05,46.55,SUP-015,51,236,12,False
+PRD-0045,Lamp v3,Consumer Goods,771.26,2.03,SUP-002,80,213,13,False
+PRD-0046,Battery v1,Automotive,705.82,41.04,SUP-008,49,214,7,False
+PRD-0047,Battery v2,Automotive,663.24,43.23,SUP-007,55,279,27,False
+PRD-0048,Battery v3,Automotive,1962.49,26.86,SUP-011,23,159,15,True
+PRD-0049,Filter v1,Automotive,86.13,29.87,SUP-005,64,473,17,False
+PRD-0050,Filter v2,Automotive,240.14,44.99,SUP-009,44,230,8,False
+PRD-0051,Filter v3,Automotive,1044.64,40.34,SUP-001,45,286,20,True
+PRD-0052,Bearing v1,Automotive,1842.33,31.2,SUP-011,35,468,16,False
+PRD-0053,Bearing v2,Automotive,822.7,20.18,SUP-011,57,383,11,True
+PRD-0054,Bearing v3,Automotive,1881.32,33.9,SUP-011,42,415,25,False
+PRD-0055,Belt v1,Automotive,1669.11,15.26,SUP-009,46,320,25,False
+PRD-0056,Belt v2,Automotive,935.33,22.16,SUP-006,47,361,22,False
+PRD-0057,Belt v3,Automotive,1474.56,32.98,SUP-013,56,363,28,False
+PRD-0058,Gasket v1,Automotive,195.84,47.6,SUP-006,50,444,16,True
+PRD-0059,Gasket v2,Automotive,303.23,2.41,SUP-004,80,412,9,False
+PRD-0060,Gasket v3,Automotive,1263.23,9.8,SUP-015,69,353,19,True
+PRD-0061,Tablet Press v1,Pharmaceuticals,1378.37,44.64,SUP-011,33,498,20,True
+PRD-0062,Tablet Press v2,Pharmaceuticals,1916.35,25.95,SUP-013,26,385,14,False
+PRD-0063,Tablet Press v3,Pharmaceuticals,918.36,40.09,SUP-002,87,386,26,False
+PRD-0064,Vial v1,Pharmaceuticals,1783.94,30.67,SUP-013,84,318,24,False
+PRD-0065,Vial v2,Pharmaceuticals,1489.87,23.79,SUP-003,53,484,14,False
+PRD-0066,Vial v3,Pharmaceuticals,1533.97,26.11,SUP-005,100,222,15,False
+PRD-0067,Capsule v1,Pharmaceuticals,578.6,13.66,SUP-012,60,376,9,True
+PRD-0068,Capsule v2,Pharmaceuticals,772.24,7.72,SUP-004,47,132,20,False
+PRD-0069,Capsule v3,Pharmaceuticals,937.19,3.21,SUP-009,73,299,25,False
+PRD-0070,Reagent v1,Pharmaceuticals,1714.9,38.3,SUP-001,68,344,7,False
+PRD-0071,Reagent v2,Pharmaceuticals,1509.42,42.69,SUP-005,73,375,30,False
+PRD-0072,Reagent v3,Pharmaceuticals,1210.47,11.1,SUP-013,48,239,20,False
+PRD-0073,Solvent v1,Pharmaceuticals,678.9,33.99,SUP-007,71,470,12,False
+PRD-0074,Solvent v2,Pharmaceuticals,263.98,31.15,SUP-015,23,301,25,False
+PRD-0075,Solvent v3,Pharmaceuticals,177.06,21.49,SUP-001,79,193,8,False

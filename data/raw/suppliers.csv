@@ -1,0 +1,16 @@
+supplier_id,supplier_name,region,country,tier,reliability_score,avg_lead_time_days,contract_start_date,payment_terms_days,is_active
+SUP-001,AsiaLink Manufacturing,Asia-Pacific,China,Tier 3,0.675,24,2022-05-06,45,True
+SUP-002,PacificRim Exports,Asia-Pacific,Indonesia,Tier 1,0.913,44,2022-08-05,30,True
+SUP-003,SilkRoute Logistics,Europe,France,Tier 3,0.682,45,2022-01-14,45,True
+SUP-004,EuroSource GmbH,Middle East,Saudi Arabia,Tier 1,0.996,35,2022-10-29,60,True
+SUP-005,NordicSupply AB,Asia-Pacific,Vietnam,Tier 3,0.638,34,2022-06-24,60,True
+SUP-006,MedTrade Italia,North America,USA,Tier 1,0.908,31,2022-02-19,60,True
+SUP-007,AmeriSource Corp,Middle East,Saudi Arabia,Tier 1,0.999,36,2022-10-02,30,False
+SUP-008,GreatLakes Industrial,South America,Brazil,Tier 3,0.688,25,2022-11-18,60,True
+SUP-009,SunBelt Suppliers,Asia-Pacific,China,Tier 3,0.627,21,2022-05-29,30,True
+SUP-010,GlobalTrade Partners,Asia-Pacific,Thailand,Tier 2,0.827,36,2022-11-22,60,True
+SUP-011,FastChain Ltd,North America,USA,Tier 3,0.627,24,2022-12-26,30,True
+SUP-012,ReliableGoods Inc,Europe,Sweden,Tier 3,0.627,22,2022-03-25,90,True
+SUP-013,PrimeSource Co,Middle East,UAE,Tier 3,0.662,27,2022-01-29,45,True
+SUP-014,ApexSupply Group,North America,Canada,Tier 2,0.704,11,2022-04-19,60,True
+SUP-015,CrossBorder Logistics,South America,Chile,Tier 3,0.564,36,2022-03-15,60,True

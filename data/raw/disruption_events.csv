@@ -1,0 +1,7 @@
+event_id,event_name,affected_routes,start_date,end_date,duration_days,severity_score,delay_multiplier,event_type,estimated_cost_impact_usd,resolution_status
+EVT-001,Chinese New Year Congestion,Asia-Pacific→North America,2023-02-01,2023-02-28,27,8.5,3.5,Operational,6414259.0,Resolved
+EVT-002,Rotterdam Port Strike,Europe→North America,2023-06-15,2023-07-10,25,6.8,2.8,Labor Action,3612752.45,Resolved
+EVT-003,Suez Canal Delay,Asia-Pacific→Europe,2023-09-01,2023-09-20,19,5.4,2.2,Operational,1287898.92,Resolved
+EVT-004,Red Sea Crisis,Middle East→Europe,2024-01-10,2024-02-15,36,10.0,4.1,Geopolitical,7565339.18,Resolved
+EVT-005,Hurricane Season,North America→South America,2024-05-01,2024-05-20,19,4.4,1.8,Weather,3034015.8,Resolved
+EVT-006,Taiwan Strait Tension,Asia-Pacific→North America,2024-08-15,2024-09-05,21,6.1,2.5,Geopolitical,4496931.25,Resolved

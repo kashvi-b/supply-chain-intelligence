@@ -1,0 +1,8 @@
+warehouse_id,name,city,country,region,capacity_units
+WH-001,Chicago Central Hub,Chicago,USA,North America,50000
+WH-002,Los Angeles Port DC,Los Angeles,USA,North America,40000
+WH-003,Rotterdam Euro Hub,Rotterdam,Netherlands,Europe,60000
+WH-004,Singapore APAC Hub,Singapore,Singapore,Asia-Pacific,45000
+WH-005,Mumbai South Asia DC,Mumbai,India,Asia-Pacific,30000
+WH-006,Frankfurt Distribution,Frankfurt,Germany,Europe,35000
+WH-007,São Paulo LatAm Hub,São Paulo,Brazil,South America,25000
