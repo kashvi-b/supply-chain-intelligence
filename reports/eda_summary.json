@@ -1,0 +1,15 @@
+{
+  "analysis_date": "2026-05-11",
+  "total_shipments": 5000,
+  "overall_otd_rate_pct": null,
+  "avg_delay_days": null,
+  "charts_generated": 9,
+  "key_findings": [
+    "Delay rate spikes correlate with 6 identified disruption events",
+    "Red Sea Crisis caused highest single-quarter delay spike",
+    "Tier 3 Asia-Pacific suppliers show highest delay rates",
+    "Disruption months show statistically significant stockout increase",
+    "Multimodal transport shows worst cost-delay tradeoff",
+    "Pareto: Top 3 causes drive 80% of total delay days"
+  ]
+}
