@@ -1,0 +1,16 @@
+supplier_id,supplier_name,tier,region,risk_score,risk_tier,is_anomaly,delay_rate,avg_delay_days,total_shipments
+SUP-003,SilkRoute Logistics,Tier 3,Europe,75.0,HIGH RISK,False,0.426,6.03,331
+SUP-015,CrossBorder Logistics,Tier 3,South America,72.1,CRITICAL,False,0.5467,7.49,353
+SUP-009,SunBelt Suppliers,Tier 3,Asia-Pacific,68.4,CRITICAL,False,0.4709,6.57,378
+SUP-014,ApexSupply Group,Tier 2,North America,67.5,HIGH RISK,True,0.3861,5.98,259
+SUP-011,FastChain Ltd,Tier 3,North America,67.2,CRITICAL,False,0.4609,6.45,447
+SUP-013,PrimeSource Co,Tier 3,Middle East,67.1,CRITICAL,False,0.4097,6.27,393
+SUP-005,NordicSupply AB,Tier 3,Asia-Pacific,55.5,HIGH RISK,False,0.3939,5.11,363
+SUP-001,AsiaLink Manufacturing,Tier 3,Asia-Pacific,53.7,CRITICAL,False,0.4101,5.08,395
+SUP-008,GreatLakes Industrial,Tier 3,South America,52.7,CRITICAL,False,0.4141,4.95,256
+SUP-012,ReliableGoods Inc,Tier 3,Europe,51.8,CRITICAL,False,0.4506,4.39,253
+SUP-010,GlobalTrade Partners,Tier 2,Asia-Pacific,47.8,HIGH RISK,False,0.27,3.56,363
+SUP-006,MedTrade Italia,Tier 1,North America,44.8,MODERATE,False,0.125,1.85,200
+SUP-002,PacificRim Exports,Tier 1,Asia-Pacific,33.1,MODERATE,False,0.124,1.55,508
+SUP-007,AmeriSource Corp,Tier 1,Middle East,16.4,MODERATE,True,0.0,0.0,184
+SUP-004,EuroSource GmbH,Tier 1,Middle East,15.5,LOW RISK,True,0.0032,0.01,317
