@@ -1,0 +1,101 @@
+=================================================================
+  BUSINESS IMPACT CALCULATOR
+  Supply Chain Intelligence Platform
+=================================================================
+
+─────────────────────────────────────────────────────────────────
+  CALCULATION 1: Current Annual Cost of Delays
+─────────────────────────────────────────────────────────────────
+
+  Delayed shipments per year          : 1,490
+  Cost per delayed shipment           : $577
+  Total delay holding cost            : $859,819
+  Expedited freight premium           : $3,604,608
+  Stockout event cost                 : $5,052,600
+  ─────────────────────────────────────────────────
+  TOTAL ANNUAL COST OF POOR OTD       : $9,517,027
+  As % of portfolio value             : 20.1%
+
+─────────────────────────────────────────────────────────────────
+  CALCULATION 2: ROI of Predictive Disruption Monitoring
+─────────────────────────────────────────────────────────────────
+
+  Shipments flagged HIGH/CRITICAL/yr  : 1,100
+  Successfully rerouted               : 715
+  Delays prevented                    : 515
+  Gross benefit                       : $237,656
+  Rerouting cost                      : $686,400
+  Net annual benefit                  : $-448,744
+  Scenario range (P10-P90)            : $-291,683 – $-605,804
+  Investment required                 : $85,000
+  First-year ROI                      : -628%
+  Payback period                      : -2.3 months
+
+─────────────────────────────────────────────────────────────────
+  CALCULATION 3: ROI of Tier 3 Supplier Restructuring
+─────────────────────────────────────────────────────────────────
+
+  Critical SKU value via Tier 3       : $2,720,000
+  Current delay cost (Tier 3)         : $764,559
+  Projected delay cost (Tier 1)       : $262,817
+  Delay cost saving                   : $501,742
+  Tier 1 contract premium             : $217,600
+  Net annual benefit                  : $284,142
+  Scenario range (P10-P90)            : $198,899 – $397,799
+  Transition investment               : $40,000
+  First-year ROI                      : 610%
+  Payback period                      : 1.7 months
+
+─────────────────────────────────────────────────────────────────
+  CALCULATION 4: ROI of Predictive Inventory Buffering
+─────────────────────────────────────────────────────────────────
+
+  Preventable stockout events/yr      : 890
+  Stockout cost saving                : $3,738,924
+  Extra carrying cost                 : $115,200
+  Net annual benefit                  : $3,623,724
+  Scenario range (P10-P90)            : $2,174,234 – $5,435,586
+  Investment required                 : $30,000
+  First-year ROI                      : 11,979%
+  Payback period                      : 0.1 months
+
+═════════════════════════════════════════════════════════════════
+  COMBINED BUSINESS IMPACT SUMMARY
+═════════════════════════════════════════════════════════════════
+                   Recommendation Annual Benefit Investment     ROI   Payback Priority
+    1. Predictive Risk Monitoring      $-448,744    $85,000   -628% -2 months     HIGH
+        2. Supplier Restructuring       $284,142    $40,000    610%  2 months     HIGH
+3. Predictive Inventory Buffering     $3,623,724    $30,000 11,979%  0 months   MEDIUM
+
+  ─────────────────────────────────────────────────────────────
+  TOTAL ANNUAL BENEFIT                : $3,459,122
+  TOTAL INVESTMENT                    : $155,000
+  COMBINED ROI                        : 2,132%
+  3-YEAR PROJECTED VALUE              : $10,377,367
+  ─────────────────────────────────────────────────────────────
+
+  CURRENT ANNUAL COST OF POOR OTD     : $9,517,027
+  ADDRESSABLE THROUGH RECOMMENDATIONS : 36%
+
+─────────────────────────────────────────────────────────────────
+  SENSITIVITY ANALYSIS — How robust are these projections?
+─────────────────────────────────────────────────────────────────
+
+  Assumption            Base Case    Pessimistic  Optimistic
+  ─────────────────────────────────────────────────────────
+  Rerouting success     65%          45%          80%
+  Tier 1 migration      32% → 15%    32% → 22%   32% → 10%
+  Stockout prevention   74%          55%          88%
+  ─────────────────────────────────────────────────────────
+
+  Pessimistic     Annual Benefit: $2,075,473  Net of Investment: $1,920,473
+  Base Case       Annual Benefit: $3,459,122  Net of Investment: $3,304,122
+  Optimistic      Annual Benefit: $5,015,728  Net of Investment: $4,860,728
+
+  ─────────────────────────────────────────────────────────
+  Even in the pessimistic scenario, combined recommendations
+  return positive ROI within 12 months. This analysis is
+  robust to assumption variance.
+
+✅ Business Impact Calculator complete.
+   Save this output to: reports/business_impact_report.txt
