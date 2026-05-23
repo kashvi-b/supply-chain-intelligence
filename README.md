@@ -85,17 +85,6 @@ and **6 disruption events** across a **24-month window** to deliver:
 
 ---
 
-## 🎬 Live Demo
-
-<div align="center">
-
-<a href="https://your-app.streamlit.app">
-  <img src="docs/demo.gif" alt="Platform Demo" width="90%">
-</a>
-
-**[→ Open Live Dashboard](https://your-app.streamlit.app)**
-
-</div>
 
 ---
 
@@ -609,11 +598,11 @@ shipments cross the CRITICAL risk threshold.
 
 ## 🤝 Connect
 
-**[Your Name]** — Data Analyst
+**Kashvi Bhardwaj** — Data Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/kashvi-bhardwaj/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/kashvi-b)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:kashvibhardwaj1234@gamil.com)
 
 *Open to Data Analyst, Business Analyst, and Analytics Engineer roles — 2025*
 
