@@ -1,6 +1,58 @@
+# Python
 __pycache__/
-.ipynb_checkpoints/
-.env
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.Python
+
+# Virtual environments
 venv/
+env/
+ENV/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files — don't commit large files to Git
+# Users generate their own data by running generate_data.py
+data/raw/*.csv
+data/processed/*.csv
+data/supply_chain.db
+
+# Keep the directory structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!models/.gitkeep
+
+# ML models — too large for Git
+models/*.pkl
+
+# Environment variables
+.env
+.env.local
+*.env
+
+# OS files
 .DS_Store
-*.pyc
+.DS_Store?
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Reports — keep figures, exclude large outputs
+reports/figures/*.png
+!reports/figures/.gitkeep
