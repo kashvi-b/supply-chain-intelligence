@@ -17,7 +17,7 @@
 
 <br>
 
-**[🚀 Live Demo](https://your-app.streamlit.app) · [📊 View Notebooks](notebooks/) · [📄 Executive Summary](reports/executive_summary.md) · [🗃️ SQL Queries](sql/queries/)**
+**[🚀 Live Demo](https://supply-chain-intelligence-kb.streamlit.app/) · [📊 View Notebooks](notebooks/) · [📄 Executive Summary](reports/executive_summary.md) · [🗃️ SQL Queries](sql/queries/)**
 
 <br>
 
